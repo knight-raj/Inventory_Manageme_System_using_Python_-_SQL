@@ -13,7 +13,7 @@ It simulates how **real business inventory systems** are built by combining a st
 
 ## 🏗️ Project Architecture
 
-### User --> ### Streamlit UI (Python) --> ### SQL Database (Tables, Views, Procedures, Functions)
+### User --> Streamlit UI (Python) --> SQL Database (Tables, Views, Procedures, Functions)
 
 
 ---
